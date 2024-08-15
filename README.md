@@ -29,8 +29,8 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 
 [Youtube](https://youtube.com)
 
-
-> Testando block quoute
+### Teste de blockquote
+> Testando block quote
 >
 >Esse é um teste para fins de apredizagem.
 
