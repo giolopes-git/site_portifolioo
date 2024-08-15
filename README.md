@@ -19,6 +19,8 @@ s
 
         1. o que é git?
         2. instalando git na maquina. 
-2. aprendendo sobre branches
+2. aprendendo sobre branches.
+
+        1. buscando branches.
 3. git avançado
 4. usando github de forma prosissional
