@@ -15,7 +15,10 @@ s
 
 [Youtube](https://youtube.com)
 
-1. Começando com git
+1. Começando com git.
+
+        1. o que é git?
+        2. instalando git na maquina. 
 2. aprendendo sobre branches
 3. git avançado
 4. usando github de forma prosissional
