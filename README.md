@@ -31,7 +31,7 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 >
 >oi, oi, oi
 
-**Comando para rodar o projeto**
+#### Comando para rodar o projeto
 
 ```
 npm start
