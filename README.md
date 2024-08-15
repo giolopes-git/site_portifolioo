@@ -28,3 +28,21 @@ s
 > Testando block quoute
 >
 >oi, oi, oi
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+
+```js
+function showName(nome){
+    return "Bem vindo" + nome;
+}
+```
+
+```html
+<h1>Olá Usuário!</h1>
+```
