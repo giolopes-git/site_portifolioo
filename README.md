@@ -14,11 +14,6 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 * Git avançado
 * usando git de forma profissional.
 
-### Rede Social
-[Instagram](https://instagram.com/gyovanaa_carneiroo)
-
-[Youtube](https://youtube.com)
-
 1. Começando com git.
 
         1. o que é git?
@@ -29,9 +24,15 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 3. git avançado
 4. usando github de forma prosissional
 
+### Rede Social
+[Instagram](https://instagram.com/gyovanaa_carneiroo)
+
+[Youtube](https://youtube.com)
+
+
 > Testando block quoute
 >
->oi, oi, oi
+>Esse é um teste para fins de apredizagem.
 
 #### Comando para rodar o projeto
 
@@ -47,8 +48,17 @@ function showName(nome){
 }
 ```
 
+**Exemplo de uso de linguagem de marcação**
 ```html
 <h1>Olá Usuário!</h1>
+```
+
+**Exemplo de uso do css**
+```css
+.titulo{
+    background-color: #fff;
+    color: #000;
+}
 ```
 
 Propriedade | Descrição
