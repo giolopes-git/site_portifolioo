@@ -12,7 +12,6 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 * Git avançado
 * usando git de forma profissional.
 
-s
 ### Rede Social
 [Instagram](https://instagram.com/gyovanaa_carneiroo)
 
@@ -49,3 +48,10 @@ function showName(nome){
 ```html
 <h1>Olá Usuário!</h1>
 ```
+
+Propriedade | Descrição
+-----------|--------
+name | Informar o nome do usuário
+size | definir o tamanho do campo
+background | cor de fundo da área em hexadecimal
+onpress | função chamado quando clicar no botão
