@@ -55,3 +55,4 @@ name | Informar o nome do usuário
 size | definir o tamanho do campo
 background | cor de fundo da área em hexadecimal
 onpress | função chamado quando clicar no botão
+logo | ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2023/09/git-icon.png)
