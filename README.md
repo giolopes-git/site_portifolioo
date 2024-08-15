@@ -7,7 +7,7 @@ Nesse curso você via dominar todo **git** e **github** _do zero ao profissional
 * começando com Git
 * aprendendo sobre branches
 * Git avançado
-* usando git de forma profissional
+* usando git de forma profissional.
 
 1. começando com Git
         1. O que é git?
