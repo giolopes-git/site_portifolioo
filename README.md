@@ -4,7 +4,10 @@
 Nesse curso você via dominar todo **git** e **github** _do zero ao profissional_
 
 ## Módulos
-_Entendendo o que é **git**, apredendo sobre **repositórios**, trabalhando com **branches**._
+* começando com Git
+* aprendendo sobre branches
+* Git avançado
+* usando git
 
 ### Rede Social
 [Instagram](https://instagram.com/gyovanaa_carneiroo)
